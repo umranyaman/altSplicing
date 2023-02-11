@@ -26,8 +26,10 @@ library(altSplicing)
 
 The package includes the following functions:
 
-extract_junc(): This function takes a GTF file as input and returns a data frame with the extracted junctions.
-plot_transcript(): This function visualizes each transcript with all the annotations in the GTF file.
-alt_splice_prediction(): This function takes count data per transcript as input and returns a data frame with the predicted alternative splicing events.
+`extract_junc():` This function takes a GTF file as input and returns a data frame with the extracted junctions.
+
+`plot_transcript():` This function visualizes each transcript with all the annotations in the GTF file.
+
+`alt_splice_prediction():` This function takes count data per transcript as input and returns a data frame with the predicted alternative splicing events.
 For more information on how to use these functions, please see the package documentation.
 
