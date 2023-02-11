@@ -13,7 +13,7 @@ install.packages("devtools")
 library(devtools)
 
 # install altSplicing from GitHub
-install_github("umranyaman/altSplicing")
+devtools::install_github("umranyaman/altSplicing",ref="main")
 ```
 
 # Usage
