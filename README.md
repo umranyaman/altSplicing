@@ -2,6 +2,8 @@
 
 altSplicing is an R package for detecting alternative splicing events from long-read RNA-seq data. The package provides functions for extracting junctions from GTF files, visualizing each transcript with all the annotations, and predicting alternative splicing events based on count data per transcript.
 
+### Note that this is an ongoing work and updates to the code and notebooks may occur.
+
 # Installation
 
 You can install the latest version of altSplicing from GitHub using the devtools package:
